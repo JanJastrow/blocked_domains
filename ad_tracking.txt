@@ -7,3 +7,6 @@ track.shz.de
 track.sp.crdl.io
 tracking24.net
 trackout.business
+matomo.adguard.com
+met.vgwort.de
+stats.datawrapper.de
