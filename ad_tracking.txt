@@ -11,3 +11,6 @@ matomo.adguard.com
 met.vgwort.de
 stats.datawrapper.de
 ladsats.com
+fadsabs.com
+fadsoks.com
+sadsecz.com
