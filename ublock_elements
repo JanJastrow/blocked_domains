@@ -1,0 +1,6 @@
+! This file is for uBlock Origin,
+! since Pi-Hole can't block elements on websites
+! ---
+
+! Remove cookie banner
+www.theverge.com###privacy-consent
