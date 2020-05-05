@@ -4,6 +4,5 @@
 
 ! Remove cookie banner
 www.theverge.com###privacy-consent
-www.reuters.com###_evidon-background
-www.reuters.com###_evidon-banner-content
-www.reuters.com###_evidon-banner
+www.reuters.com###_evidon-barrier-wrapper
+store.hp.com###onetrust-consent-sdk
