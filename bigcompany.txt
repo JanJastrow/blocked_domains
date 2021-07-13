@@ -12,3 +12,4 @@ sun.hac.lp1.d4c.nintendo.net
 aauth-lp1.ndas.srv.nintendo.net
 dauth-lp1.ndas.srv.nintendo.net
 accounts.nintendo.com
+telemetry-console.api.playstation.com
