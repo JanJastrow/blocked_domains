@@ -13,3 +13,4 @@ aauth-lp1.ndas.srv.nintendo.net
 dauth-lp1.ndas.srv.nintendo.net
 accounts.nintendo.com
 telemetry-console.api.playstation.com
+ps4updptl.uk.np.community.playstation.net
