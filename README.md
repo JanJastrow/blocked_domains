@@ -5,7 +5,6 @@ From time to time I'll add (malicious) domains that I stumple upon.
 
 ## Description
 
-- malicious.txt -- domains that where involved in shady things (redirects, spam, scam, etc.)
 - ad_tracking.txt -- tracking or ad-serving domains
 - bigcompanies.txt -- domains of big companies that I don't want on my network (update blocking or similar)
 - other.txt -- I don't remember the reason - properly also ads, porn, or unwanted products (usenet)
